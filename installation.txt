@@ -1,0 +1,12 @@
+How to install =>
+
+Changing website name icon and logo :
+1.extract downloaded file main.zip.
+2.Replace favicon.ico with your website icon.
+3.Now go to this location assets/img/icon.png replace icon.png with your own logo.
+4.Now open the index.html file in any text editor and scroll down and replace vicpra.com with your sitename.You can also edit the head section if you want.
+
+Set up free openweathermap api key:
+1.go to this site https://home.openweathermap.org/api_keys copy your api key.
+2.now go to this location assets/js/api.js open api.js file in text editor and then replace your api key with YOUR_API_KEY and save.
+3.upload it online anywhere. after upload delete installation.txt file.
